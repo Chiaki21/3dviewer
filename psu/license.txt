@@ -1,0 +1,11 @@
+Model Information:
+* title:	Power Supply
+* source:	https://sketchfab.com/3d-models/power-supply-11b975c08b5a4d9baa497dd734d93166
+* author:	Bachklamk (https://sketchfab.com/Bachklamk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Power Supply" (https://sketchfab.com/3d-models/power-supply-11b975c08b5a4d9baa497dd734d93166) by Bachklamk (https://sketchfab.com/Bachklamk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

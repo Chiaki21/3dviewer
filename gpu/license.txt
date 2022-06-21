@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Graphics Card
+* source:	https://sketchfab.com/3d-models/red-graphics-card-b9bc47a668c24b9cbd91e5b74fa49d2f
+* author:	Cem Gürbüz (https://sketchfab.com/cemgurbuzz)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Graphics Card" (https://sketchfab.com/3d-models/red-graphics-card-b9bc47a668c24b9cbd91e5b74fa49d2f) by Cem Gürbüz (https://sketchfab.com/cemgurbuzz) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

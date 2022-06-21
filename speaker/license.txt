@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wharfedale Diamond 10.2 Speakers
+* source:	https://sketchfab.com/3d-models/wharfedale-diamond-102-speakers-c1b211613e5b405b91f60df27c4f8d95
+* author:	pester (https://sketchfab.com/pester)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wharfedale Diamond 10.2 Speakers" (https://sketchfab.com/3d-models/wharfedale-diamond-102-speakers-c1b211613e5b405b91f60df27c4f8d95) by pester (https://sketchfab.com/pester) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

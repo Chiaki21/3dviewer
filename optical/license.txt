@@ -1,0 +1,11 @@
+Model Information:
+* title:	CD Drive
+* source:	https://sketchfab.com/3d-models/cd-drive-bd7c52a733a142a3839a42fa8f590d72
+* author:	jaggelidakis (https://sketchfab.com/jaggelidakis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CD Drive" (https://sketchfab.com/3d-models/cd-drive-bd7c52a733a142a3839a42fa8f590d72) by jaggelidakis (https://sketchfab.com/jaggelidakis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
